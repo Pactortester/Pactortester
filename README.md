@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm a python full stack test engineer, I'd like to make some contributions for .net open source and share some thoughts on my blog and github.
+
+### Contact me
+
+- <https://github.com/Pactortester>
+- <https://blog.csdn.net/flower_drop>
+- <jiawei.li2@qq.com>
+
 <!--
 **Pactortester/Pactortester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
