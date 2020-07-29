@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I'm a python full stack test engineer, I'd like to make some contributions for auto test open source and share some thoughts on my blog and github.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester)](https://github.com/Pactortester/github-readme-stats)
+
+
 <!--
 **Pactortester/Pactortester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
