@@ -2,7 +2,7 @@
 
 - 🌱 I'm a python full stack test engineer, I'd like to make some contributions for auto test open source and share some thoughts on my blog and github.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester)](https://github.com/Pactortester/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Pactortester/github-readme-stats)
 
 
 <!--
