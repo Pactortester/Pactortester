@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I'm a python full stack test engineer, I'd like to make some contributions for auto test open source and share some thoughts on my blog and github.
+- 🌱 I'm a python full stack test engineer.
+- 🔭 I'd like to make some contributions for auto test open source and share some thoughts on my blog and github.
 
 **Languages and Tools:**  
 
