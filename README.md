@@ -1,8 +1,6 @@
 ### Hi there 👋
-
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true" alt="Pactortester" /> 
-</p>
+<h3 align="center">A passionate developer from china</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pactortester" alt="Pactortester" /> </p>
 
 - 🌱 I'm a python full stack test engineer.
 - 🔭 I'd like to make some contributions for auto test open source and share some thoughts on my blog and github.
