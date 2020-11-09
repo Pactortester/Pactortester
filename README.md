@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3 align="center">A passionate tester from china</h3>
+<h3 align="center">A passionate tester from China.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pactortester" alt="Pactortester" /> </p>
 
 - 🌱 I'm a python full stack test engineer.
