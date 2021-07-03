@@ -21,9 +21,9 @@
 
 
 
-![lijiawei's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true&hide_border=true)
+![lijiawei's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true&hide_border=true)![qrcode_for_gh_c7be08a15e6d_258](https://user-images.githubusercontent.com/29191106/124340700-aa8a8600-dbe9-11eb-84fe-476154ffa293.jpg)
 
-![测试开发囤货](https://user-images.githubusercontent.com/29191106/124237257-e968ff00-db49-11eb-9c8c-704384b085d9.png)
+
 
 
 
