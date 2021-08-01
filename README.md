@@ -21,7 +21,8 @@
 
 
 
-![lijiawei's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true&hide_border=true)![qrcode_for_gh_c7be08a15e6d_258](https://user-images.githubusercontent.com/29191106/124340700-aa8a8600-dbe9-11eb-84fe-476154ffa293.jpg)
+![lijiawei's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true&hide_border=true)![qrcode_for_gh_c7be08a15e6d_258 (2)](https://user-images.githubusercontent.com/29191106/127762528-ea9f74aa-c69c-4751-acca-d321068925d2.jpg)
+
 
 
 
