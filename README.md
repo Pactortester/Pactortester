@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h3 align="center">A passionate tester from China.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pactortester" alt="Pactortester" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pactortester" alt="Pactortester" /><img src="https://img.shields.io/github/stars/Pactortester?affiliations=OWNER&amp;style=social"> </p>
 
 - 🌱 I'm a python full stack test engineer.
 - 🔭 I'd like to make some contributions for auto test open source and share some thoughts on my blog and github.
