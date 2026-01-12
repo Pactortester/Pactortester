@@ -1,48 +1,64 @@
-### Hi there 👋
-<h3 align="center">A passionate tester from China.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pactortester" alt="Pactortester" /><img src="https://img.shields.io/github/stars/Pactortester?affiliations=OWNER&amp;style=social"> </p>
+<h2 align="center">Hi there 👋</h2>
 
-- 🌱 I'm a python full stack test engineer.
-- 🔭 I'd like to make some contributions for auto test open source and share some thoughts on my blog and github.
-- 📫 [https://openutx.cn/](https://openutx.cn/)
+<h3 align="center">Python Full Stack Test Engineer · China 🇨🇳</h3>
 
-**Languages and Tools:**  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pactortester&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/Pactortester?affiliations=OWNER&style=social" />
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+---
 
+### 👨‍💻 About Me
 
+- 🌱 **Python Full Stack Test Engineer**
+- 🔭 Focus on **Automation Testing / Test Frameworks / CI/CD**
+- 🧪 Interested in **Auto Test Open Source**
+- ✍️ Writing & Sharing on **Blog & GitHub**
+- 📫 Blog: **[openutx.cn](https://openutx.cn/)**
 
-![lijiawei's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true&hide_border=true)
-![qrcode_for_gh_c7be08a15e6d_258 (2)](https://user-images.githubusercontent.com/29191106/127762528-ea9f74aa-c69c-4751-acca-d321068925d2.jpg)
+---
 
+### 🧪 Testing Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
 
+---
 
+### 🛠 Languages & Tools
 
+<p align="center">
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</p>
 
+---
 
+### 📊 GitHub Activity
 
-<!--
-**Pactortester/Pactortester** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Pactortester&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Pactortester/github-readme-stats)
-Here are some ideas to get you started:
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pactortester&show_icons=true&hide_border=true&cache_seconds=86400"
+    width="420"
+  />
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://user-images.githubusercontent.com/29191106/127762528-ea9f74aa-c69c-4751-acca-d321068925d2.jpg"
+    width="160"
+  />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://openutx.cn/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-openutx.cn-blue?style=flat-square" />
+  </a>
+</p>
