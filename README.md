@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pactortester&label=Profile%20Views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/stars/Pactortester?affiliations=OWNER&style=social" />
+  <img src="https://img.shields.io/badge/Blog-openutx.cn-blue?style=flat-square&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -16,17 +17,6 @@
 - 🧪 Interested in **Auto Test Open Source**
 - ✍️ Writing & Sharing on **Blog & GitHub**
 - 📫 Blog: **[openutx.cn](https://openutx.cn/)**
-
----
-
-### 🧪 Testing Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-</p>
-
 ---
 
 ### 🛠 Languages & Tools
@@ -57,8 +47,3 @@
   />
 </p>
 
-<p align="center">
-  <a href="https://openutx.cn/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-openutx.cn-blue?style=flat-square" />
-  </a>
-</p>
